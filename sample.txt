@@ -1,0 +1,4 @@
+Hello
+Welcome to DevOps
+This is Linux scripting.
+Enjoy learning!
